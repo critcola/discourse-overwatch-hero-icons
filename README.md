@@ -13,8 +13,7 @@ hooks:
         cd: $home/plugins
         cmd:
           - mkdir -p plugins
-          - git clone https://github.com/discourse/docker_manager.git
-          - git clone https://github.com/discourse/discourse-spoiler-alert.git
+          - git clone https://github.com/critcola/discourse-overwatch-hero-icons.git
 ```
 
 Rebuild the container:
