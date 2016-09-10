@@ -1,3 +1,9 @@
+import { registerOption } from 'pretty-text/pretty-text';
+
+registerOption((siteSettings, opts) => {
+	opts.features['overwatch-hero-icons'] = true;
+});
+
 function formatOverwatchHeroNames (text) {
 	return text
 		.replace(/\b(ana)\b/ig, "Ana&nbsp;<span class=\"ohi-ana\"></span>")
@@ -25,12 +31,14 @@ function formatOverwatchHeroNames (text) {
 		.replace(/\b(zenya(tt?|dd?)a)\b/ig, "Zenyatta&nbsp;<span class=\"ohi-zenyatta\"></span>");
 }
 
-Discourse.Dialect.postProcessText(function (text) {
-	text = [].concat(text);
-	for (var i = 0; i < text.length; i++) {
-		if (text[i].length > 0 && text[i][0] !== "<") {
-			text[i] = formatOverwatchHeroNames(text[i]);
+export function setup(helper) {
+	helper.postProcessText(function (text) {
+		text = [].concat(text);
+		for (var i = 0; i < text.length; i++) {
+			if (text[i].length > 0 && text[i][0] !== "<") {
+				text[i] = piratize(text[i]);
+			}
 		}
-	}
-	return text;
-});
+		return text;
+	});
+}
