@@ -36,7 +36,7 @@ export function setup(helper) {
 		text = [].concat(text);
 		for (var i = 0; i < text.length; i++) {
 			if (text[i].length > 0 && text[i][0] !== "<") {
-				text[i] = piratize(text[i]);
+				text[i] = formatOverwatchHeroNames(text[i]);
 			}
 		}
 		return text;
