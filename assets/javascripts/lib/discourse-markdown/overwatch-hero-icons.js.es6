@@ -41,4 +41,30 @@ export function setup(helper) {
 		}
 		return text;
 	});
+
+	helper.whiteList([
+		'span.ohi-ana',
+		'span.ohi-bastion',
+		'span.ohi-dva',
+		'span.ohi-genji',
+		'span.ohi-hanzo',
+		'span.ohi-junkrat',
+		'span.ohi-lucio',
+		'span.ohi-mccree',
+		'span.ohi-mei',
+		'span.ohi-mercy',
+		'span.ohi-pharah',
+		'span.ohi-reaper',
+		'span.ohi-reinhardt',
+		'span.ohi-roadhog',
+		'span.ohi-soldier76',
+		'span.ohi-sombra',
+		'span.ohi-symmetra',
+		'span.ohi-torbjorn',
+		'span.ohi-tracer',
+		'span.ohi-widowmaker',
+		'span.ohi-winston',
+		'span.ohi-zarya',
+		'span.ohi-zenyatta'
+	]);
 }
