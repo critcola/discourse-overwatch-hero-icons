@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'overwatch-heroes';
-    src: url('../fonts/overwatch-hero-icons.ttf?rql2oo') format('truetype'),
-    url('../fonts/overwatch-hero-icons.woff?rql2oo') format('woff'),
-    url('../fonts/overwatch-hero-icons.svg?rql2oo#overwatch-heroes') format('svg');
+    src: url('https://critcola.github.io/discourse-overwatch-hero-icons/assets/fonts/overwatch-hero-icons.ttf?rql2oo') format('truetype'),
+    url('https://critcola.github.io/discourse-overwatch-hero-icons/assets/fonts/overwatch-hero-icons.woff?rql2oo') format('woff'),
+    url('https://critcola.github.io/discourse-overwatch-hero-icons/assets/fonts/overwatch-hero-icons.svg?rql2oo#overwatch-heroes') format('svg');
     font-weight: normal;
     font-style: normal;
 }
