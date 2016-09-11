@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'overwatch-heroes';
-    src: url('/assets/fonts/overwatch-hero-icons.ttf?rql2oo') format('truetype'),
-    url('/assets/fonts/overwatch-hero-icons.woff?rql2oo') format('woff'),
-    url('/assets/fonts/overwatch-hero-icons.svg?rql2oo#overwatch-heroes') format('svg');
+    src: url('../fonts/overwatch-hero-icons.ttf?rql2oo') format('truetype'),
+    url('../fonts/overwatch-hero-icons.woff?rql2oo') format('woff'),
+    url('../fonts/overwatch-hero-icons.svg?rql2oo#overwatch-heroes') format('svg');
     font-weight: normal;
     font-style: normal;
 }
