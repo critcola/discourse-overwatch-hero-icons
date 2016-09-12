@@ -8,7 +8,6 @@
 }
 
 [class^="ohi-"], [class*=" ohi-"] {
-    /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'overwatch-heroes' !important;
     speak: none;
     font-style: normal;
@@ -16,9 +15,7 @@
     font-variant: normal;
     text-transform: none;
     line-height: 1;
-	padding: 0 0.05em 0 0.2em;
-
-    /* Better Font Rendering =========== */
+	padding: 0 0.2em 0 0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -105,7 +102,7 @@
     content: "\e911";
 }
 
-.ohi-winston:before, .ohi-harambe:before {
+.ohi-winston:before {
     content: "\e912";
 }
 

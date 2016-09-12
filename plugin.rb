@@ -5,6 +5,3 @@
 # url: https://github.com/critcola/discourse-overwatch-hero-icons
 
 register_asset "stylesheets/overwatch-hero-icons.css"
-register_asset "fonts/overwatch-hero-icons.ttf"
-register_asset "fonts/overwatch-hero-icons.woff"
-register_asset "fonts/overwatch-hero-icons.svg"
