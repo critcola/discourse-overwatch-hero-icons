@@ -23,6 +23,14 @@ cd /var/discourse
 ./launcher rebuild app
 ```
 
+For the plugin to apply retroactively, you'll need to rebake old posts:
+
+```
+cd /var/discourse
+./launcher enter app
+rake posts:rebake
+```
+
 ## About Crit Cola
 
 Crit Cola is an [Overwatch community](https://critcola.com) for PC gamers. Join our [Steam group](http://steamcommunity.com/groups/critcola) and follow us on [Twitter](https://twitter.com/critcolaguild)!
