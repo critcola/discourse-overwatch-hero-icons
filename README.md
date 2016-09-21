@@ -1,4 +1,4 @@
-<a href="https://critcola.com/">![Logo](https://critcola.com/assets/images/crit-cola-banner.svg)</a>
+<a href="https://critcola.com/?utm_source=github.com&utm_medium=readme&utm_term=logo&utm_content=overwatch-hero-icons&utm_campaign=development">![Logo](https://critcola.com/assets/images/crit-cola-banner.svg)</a>
 
 # Overwatch Hero Icons for Discourse
 
@@ -35,7 +35,7 @@ rake posts:rebake
 
 ## About Crit Cola
 
-Crit Cola is an [Overwatch community](https://critcola.com) for PC gamers. Join our [Steam group](http://steamcommunity.com/groups/critcola) and follow us on [Twitter](https://twitter.com/critcolaguild)!
+Crit Cola is an [Overwatch community](https://critcola.com/?utm_source=github.com&utm_medium=readme&utm_term=overwatch-community&utm_content=overwatch-hero-icons&utm_campaign=development) for PC gamers. Join our [Steam group](http://steamcommunity.com/groups/critcola) and follow us on [Twitter](https://twitter.com/critcolaguild)!
 
 ## License
 
