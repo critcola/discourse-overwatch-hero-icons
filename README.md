@@ -2,7 +2,7 @@
 
 # Overwatch Hero Icons for Discourse
 
-This plugin for Discourse formats Overwatch hero names in posts, appending hero icons and correcting hero spelling and character case.
+This plugin for Discourse formats Overwatch hero names in posts, prepending hero icons and correcting hero spelling and character case.
 
 ## Installation
 
