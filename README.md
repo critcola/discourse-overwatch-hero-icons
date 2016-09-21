@@ -1,3 +1,5 @@
+<a href="https://critcola.com/">![Logo](https://critcola.com/assets/images/crit-cola-banner.svg)</a>
+
 # Overwatch Hero Icons for Discourse
 
 This plugin for Discourse formats Overwatch hero names in posts, appending hero icons and correcting hero spelling and character case.
