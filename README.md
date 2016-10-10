@@ -1,4 +1,4 @@
-[[Logo](https://critcola.com/assets/images/crit-cola-banner.svg)](https://critcola.com/?utm_source=github.com&utm_medium=readme&utm_term=logo&utm_content=overwatch-hero-icons&utm_campaign=development)
+<a href="https://critcola.com/?utm_source=github.com&utm_medium=readme&utm_term=logo&utm_content=overwatch-hero-icons&utm_campaign=development">![Logo](https://critcola.com/assets/images/crit-cola-banner.svg)</a>
 
 # Overwatch Hero Icons for Discourse
 
