@@ -28,7 +28,7 @@ function formatOverwatchHeroNames (text) {
 		.replace(/\b(wid+ow\s?makers?)\b/ig, "<span class=\"ohi-widowmaker\"></span>Widowmaker")
 		.replace(/\b(winst[oi]ns?)\b/ig, "<span class=\"ohi-winston\"></span>Winston")
 		.replace(/\b(zar[yi]as?)\b/ig, "<span class=\"ohi-zarya\"></span>Zarya")
-		.replace(/\b(zeny[ao][td]+as?)\b/ig, "<span class=\"ohi-zenyatta\"></span>Zenyatta");
+		.replace(/\b(zen+y[ao][td]+as?)\b/ig, "<span class=\"ohi-zenyatta\"></span>Zenyatta");
 }
 
 export function setup(helper) {
