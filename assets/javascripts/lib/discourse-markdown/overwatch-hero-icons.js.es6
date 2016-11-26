@@ -8,7 +8,7 @@ function formatOverwatchHeroNames (text) {
 	return text
 		.replace(/\b(anas?)\b/ig, "<span class=\"ohi-ana\"></span>Ana")
 		.replace(/\b(bash?t[ioae]+ns?)\b/ig, "<span class=\"ohi-bastion\"></span>Bastion")
-		.replace(/\b(d[-.\s]?vas?)\b/ig, "<span class=\"ohi-dva\"></span>D.Va")
+		.replace(/\b(d\.?[-\s]?vas?)\b/ig, "<span class=\"ohi-dva\"></span>D.Va")
 		.replace(/\b(gen[jg][iy]s?)\b/ig, "<span class=\"ohi-genji\"></span>Genji")
 		.replace(/\b(h[ao]nzos?)\b/ig, "<span class=\"ohi-hanzo\"></span>Hanzo")
 		.replace(/\b(junk\s?rats?)\b/ig, "<span class=\"ohi-junkrat\"></span>Junkrat")
