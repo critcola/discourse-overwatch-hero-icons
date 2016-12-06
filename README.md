@@ -43,7 +43,7 @@ Crit Cola is an [Overwatch clan](https://critcola.com/?utm_source=github.com&utm
 
 ## Credits
 
-The Overwatch Hero Icons for Discourse plugin, developed by [Daniel Marquard](https://github.com/DanielMarquard), uses vector graphics made by [DCMJS](https://github.com/dcmjs) and [Polygonine](https://github.com/Polygonine), made into a font by [256kb](https://github.com/255kb).
+The Overwatch Hero Icons for Discourse plugin, developed by [Daniel Marquard](https://github.com/DanielMarquard), uses vector graphics made by [DCMJS](https://github.com/dcmjs) and [Polygonine](https://github.com/Polygonine), packaged into a font by [256kb](https://github.com/255kb).
 
 ## License
 
