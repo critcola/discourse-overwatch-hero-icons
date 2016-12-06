@@ -20,9 +20,8 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
-/* Ana's icon is not yet available, so this class is used as a placeholder in posts. */
-.ohi-ana {
-	display: none;
+.ohi-ana:before {
+	content: "\e915";
 }
 
 .ohi-bastion:before {
@@ -81,9 +80,8 @@
     content: "\e90d";
 }
 
-/* SOMBr@1NF:rM@7iON1SP0vvErrSOMBr@ */
-.ohi-sombra {
-	display: none;
+.ohi-sombra:before {
+	content: "\e916";
 }
 
 .ohi-symmetra:before {
