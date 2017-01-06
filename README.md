@@ -24,14 +24,14 @@ hooks:
 
 Rebuild the container:
 
-```
+```sh
 cd /var/discourse
 ./launcher rebuild app
 ```
 
 For the plugin to apply retroactively, you'll need to rebake old posts:
 
-```
+```sh
 cd /var/discourse
 ./launcher enter app
 rake posts:rebake
@@ -39,7 +39,7 @@ rake posts:rebake
 
 ## About Crit Cola
 
-Crit Cola is an [Overwatch clan](https://critcola.com/?utm_source=github.com&utm_medium=readme&utm_term=overwatch-clan&utm_content=overwatch-hero-icons&utm_campaign=development), a growing community of PC gamers. Join our [Steam group](http://steamcommunity.com/groups/critcola) and follow us on [Twitter](https://twitter.com/CritColaGaming). Cheers!
+Crit Cola is connecting and empowering the world's best players. Primarily an [Overwatch clan](https://critcola.com/?utm_source=github.com&utm_medium=readme&utm_term=overwatch-clan&utm_content=overwatch-hero-icons&utm_campaign=development), we're a growing community of PC gamers. Join our [Steam group](http://steamcommunity.com/groups/critcola) and follow us on [Twitter](https://twitter.com/CritColaGaming). Cheers!
 
 ## Credits
 
