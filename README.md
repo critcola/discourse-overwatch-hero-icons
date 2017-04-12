@@ -2,7 +2,7 @@
 
 # Overwatch Hero Icons for Discourse
 
-This plugin for Discourse formats Overwatch hero names in posts. It tries to intelligently match hero names in users' posts, including those that are horribly misspelled, correcting their spelling, adding accent marks and other special characters where necessary, and prepending the hero's icon to their name.
+This plugin for Discourse formats Overwatch hero names in posts. It tries to intelligently match hero names in users' posts, including those that are _horribly_ misspelled, correcting their spelling, adding accent marks and other special characters where necessary, and prepending the hero's icon to their name.
 
 ## Demo
 
@@ -43,7 +43,7 @@ Crit Cola is connecting and empowering the world's best players. Primarily an [O
 
 ## Credits
 
-The Overwatch Hero Icons for Discourse plugin, developed by [Daniel Marquard](https://github.com/DanielMarquard), uses vector graphics made by [DCMJS](https://github.com/dcmjs) and [Polygonine](https://github.com/Polygonine), packaged into a font by [256kb](https://github.com/255kb).
+The Overwatch Hero Icons for Discourse plugin, developed by [Daniel Marquard](https://github.com/DanielMarquard), uses vector graphics made by [DCMJS](https://github.com/dcmjs), [Polygonine](https://github.com/Polygonine), and [MissMadison](http://yoshinoyoshie.deviantart.com/); packaged into a font by [255kb](https://github.com/255kb).
 
 ## License
 
