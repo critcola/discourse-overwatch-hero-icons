@@ -47,6 +47,7 @@ export function setup(helper) {
 	helper.whiteList([
 		'span.ohi-ana',
 		'span.ohi-bastion',
+		'span.ohi-doomfist',
 		'span.ohi-dva',
 		'span.ohi-genji',
 		'span.ohi-hanzo',
@@ -55,6 +56,7 @@ export function setup(helper) {
 		'span.ohi-mccree',
 		'span.ohi-mei',
 		'span.ohi-mercy',
+		'span.ohi-orisa',
 		'span.ohi-pharah',
 		'span.ohi-reaper',
 		'span.ohi-reinhardt',
