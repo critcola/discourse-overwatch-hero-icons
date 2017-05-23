@@ -65,7 +65,7 @@
 }
 
 .ohi-orisa:before {
-    display: none;
+    content: "\e918";
 }
 
 .ohi-pharah:before {
